@@ -1,0 +1,163 @@
+{
+    "language_code": "es",
+    "english_name": "Spanish",
+    "worksheets": [
+        {
+            "page": "God's_Story_(five_fingers)",
+            "title": "La Historia de Dios (cinco dedos)",
+            "filename": "La_Historia_de_Dios_(cinco_dedos).html",
+            "version": "2.1",
+            "pdf": "La_Historia_de_Dios_(cinco_dedos).pdf"
+        },
+        {
+            "page": "God's_Story_(first_and_last_sacrifice)",
+            "title": "La historia de Dios (el primer y \u00faltimo sacrificio)",
+            "filename": "La_historia_de_Dios_(el_primer_y_\u00faltimo_sacrificio).html",
+            "version": "2.1"
+        },
+        {
+            "page": "Baptism",
+            "title": "Bautismo",
+            "filename": "Bautismo.html",
+            "version": "2.1",
+            "pdf": "Bautismo.pdf"
+        },
+        {
+            "page": "Prayer",
+            "title": "Oraci\u00f3n",
+            "filename": "Oraci\u00f3n.html",
+            "version": "1.1",
+            "pdf": "Oraci\u00f3n.pdf"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Perdonando paso a paso",
+            "filename": "Perdonando_paso_a_paso.html",
+            "version": "1.2",
+            "pdf": "Perdonando_paso_a_paso.pdf"
+        },
+        {
+            "page": "Confessing_Sins_and_Repenting",
+            "title": "Confesi\u00f3n de Pecados y Arrepentimiento",
+            "filename": "Confesi\u00f3n_de_Pecados_y_Arrepentimiento.html",
+            "version": "1.1",
+            "pdf": "Confesi\u00f3n_de_Pecados_y_Arrepentimiento.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "Tiempo con Dios",
+            "filename": "Tiempo_con_Dios.html",
+            "version": "1.2",
+            "pdf": "Tiempo_con_Dios.pdf"
+        },
+        {
+            "page": "Hearing_from_God",
+            "title": "Escuchando a Dios",
+            "filename": "Escuchando_a_Dios.html",
+            "version": "1.2",
+            "pdf": "Escuchando_a_Dios.pdf"
+        },
+        {
+            "page": "Church",
+            "title": "Iglesia",
+            "filename": "Iglesia.html",
+            "version": "2.0",
+            "pdf": "Iglesia.pdf"
+        },
+        {
+            "page": "Healing",
+            "title": "Sanidad",
+            "filename": "Sanidad.html",
+            "version": "1.0",
+            "pdf": "Sanidad.pdf"
+        },
+        {
+            "page": "Dealing_with_Money",
+            "title": "El manejo del dinero",
+            "filename": "El_manejo_del_dinero.html",
+            "version": "1.0"
+        },
+        {
+            "page": "My_Story_with_God",
+            "title": "Mi historia con Dios",
+            "filename": "Mi_historia_con_Dios.html",
+            "version": "1.1",
+            "pdf": "Mi_historia_con_Dios.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Consejos para leer la Biblia",
+            "filename": "Consejos_para_leer_la_Biblia.html",
+            "version": "2.0",
+            "pdf": "Consejos_para_leer_la_Biblia.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "Consejos para leer la Biblia (7 acontecimientos llenos de esperanza)",
+            "filename": "Consejos_para_leer_la_Biblia_(7_acontecimientos_llenos_de_esperanza).html",
+            "version": "2.0",
+            "pdf": "Consejos_para_leer_la_Biblia_(7_acontecimientos_llenos_de_esperanza).pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "Consejos para leer la Biblia (Comenzando con la Creaci\u00f3n)",
+            "filename": "Consejos_para_leer_la_Biblia_(Comenzando_con_la_Creaci\u00f3n).html",
+            "version": "2.0"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "El Proceso De Los Tres-Tercios",
+            "filename": "El_Proceso_De_Los_Tres-Tercios.html",
+            "version": "1.0",
+            "pdf": "El_Proceso_De_Los_Tres-Tercios.pdf"
+        },
+        {
+            "page": "Training_Meeting_Outline",
+            "title": "Estructura de la Reuni\u00f3n de Entrenamiento",
+            "filename": "Estructura_de_la_Reuni\u00f3n_de_Entrenamiento.html",
+            "version": "1.0",
+            "pdf": "Estructura_de_la_Reuni\u00f3n_de_Entrenamiento.pdf"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "Una Oraci\u00f3n Diaria",
+            "filename": "Una_Oraci\u00f3n_Diaria.html",
+            "version": "1.0",
+            "pdf": "Una_Oraci\u00f3n_Diaria.pdf"
+        },
+        {
+            "page": "Overcoming_Fear_and_Anger",
+            "title": "Venciendo el Miedo y la Ira",
+            "filename": "Venciendo_el_Miedo_y_la_Ira.html",
+            "version": "1.0",
+            "pdf": "Venciendo_el_Miedo_y_la_Ira.pdf"
+        },
+        {
+            "page": "Getting_Rid_of_Colored_Lenses",
+            "title": "Deshacerse de los lentes de color",
+            "filename": "Deshacerse_de_los_lentes_de_color.html",
+            "version": "1.0",
+            "pdf": "Deshacerse_de_los_lentes_de_color.pdf"
+        },
+        {
+            "page": "Overcoming_Pride_and_Rebellion",
+            "title": "Superar el orgullo y la rebeld\u00eda",
+            "filename": "Superar_el_orgullo_y_la_rebeld\u00eda.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Overcoming_Negative_Inheritance",
+            "title": "Superar la herencia negativa",
+            "filename": "Superar_la_herencia_negativa.html",
+            "version": "1.1",
+            "pdf": "Superar_la_herencia_negativa.pdf"
+        },
+        {
+            "page": "Four_Kinds_of_Disciples",
+            "title": "Cuatro Tipos de Disc\u00edpulos",
+            "filename": "Cuatro_Tipos_de_Disc\u00edpulos.html",
+            "version": "1.1",
+            "pdf": "Cuatro_Tipos_de_Disc\u00edpulos.pdf"
+        }
+    ]
+}
